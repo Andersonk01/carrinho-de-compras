@@ -2,7 +2,7 @@
 
 ![layout2](/public/layout2.png)
 
-Este é um projeto simples que demonstra um carrinho de compras em uma aplicação web usando React. O projeto inclui a funcionalidade de adicionar e remover produtos do carrinho, calcular o preço total e exibir uma mensagem de compra realizada.
+Este é um projeto simples que demonstra um carrinho de compras em uma aplicação web usando React com TypeScript. O projeto inclui a funcionalidade de adicionar e remover produtos do carrinho, calcular o preço total e exibir uma mensagem de compra realizada.
 
 ## Funcionalidades
 
