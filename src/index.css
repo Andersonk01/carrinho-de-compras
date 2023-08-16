@@ -1,0 +1,74 @@
+:root {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  background-color: #f2f2f2;
+}
+
+/* Reset básico de CSS */
+body,
+h1,
+h2,
+h3,
+p,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font-family: inherit;
+  vertical-align: baseline;
+}
+
+/* Elementos de bloco padrão não devem ter margem inferior */
+h1,
+h2,
+h3,
+p {
+  margin-bottom: 0.5em;
+  letter-spacing: 0.1rem;
+}
+
+/* Estilos básicos para a tag de lista não ordenada */
+ul {
+  list-style: none;
+}
+
+/* Estilos básicos para links */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Estilos básicos para imagens */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Define o tamanho da caixa de forma mais previsível e intuitiva */
+* {
+  box-sizing: border-box;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  
+}
+
+/* body {
+  margin: 0;
+  display: flex;
+  padding: 0;
+  min-width: 320px;
+  min-height: 100vh;
+} */
+
+button {
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+button:hover {
+  background-color: #646cff;
+}
