@@ -1,3 +1,5 @@
+link do projeto: (https://carrinho-de-compra-pizzaria.vercel.app/)
+
 # Carrinho de Compras
 
 ![layout2](/public/layout2.png)
