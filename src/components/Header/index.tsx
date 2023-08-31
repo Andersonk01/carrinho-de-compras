@@ -9,7 +9,7 @@ export const Header = () => {
     <ContainerHeader>
       <h1>Pizzaria - Anderson</h1>
       <button onClick={() => setOpenAside(true)}>
-        <img src="src/components/Header/assets/bag.svg" alt="carrinho" />
+        <img src="/bag.svg" alt="carrinho" />
         <span>{data.length}</span>
       </button>
     </ContainerHeader>
